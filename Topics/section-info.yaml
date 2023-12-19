@@ -1,0 +1,7 @@
+content:
+  - Custom serialization
+  - States of a thread
+  - Semaphores
+  - Enumset
+  - Command
+  - Abstract factory

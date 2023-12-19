@@ -1,0 +1,38 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    text: |-
+      import java.util.concurrent.*;
+      
+      class Mouth {
+          //declare your attributes here
+      
+          public Mouth() {
+              //init your attributes here
+          }
+      
+          // Update the method
+          public void first() throws InterruptedException {
+              System.out.print("I "); // Do not change or remove this line
+          }
+      
+          // Update the method
+          public void second() throws InterruptedException {
+              System.out.print("love "); // Do not change or remove this line
+          }
+      
+          // Update the method
+          public void third() throws InterruptedException {
+              System.out.print("programming!"); // Do not change or remove this line
+          }
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25134#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 17 Dec 2023 20:41:54 UTC"
+record: -1
+submission_language: java17

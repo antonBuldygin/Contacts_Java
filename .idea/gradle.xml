@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Contacts (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Burgers" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Disadvantages of the pattern" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Laptop factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Phone factory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract factory/What does the pattern do" />
+            <option value="$PROJECT_DIR$/Topics/Command/Forex Broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Real-world examples" />
+            <option value="$PROJECT_DIR$/Topics/Command/Remote control" />
+            <option value="$PROJECT_DIR$/Topics/Command/Stock broker" />
+            <option value="$PROJECT_DIR$/Topics/Command/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command/Type of design pattern" />
+            <option value="$PROJECT_DIR$/Topics/Command/Use cases" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Custom serialization behavior" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Fix the bank account" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Included fields" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Initialize transient fields" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Password processing" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Serialization mystery" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Serializing integers" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/The Range class" />
+            <option value="$PROJECT_DIR$/Topics/Custom serialization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/EnumSet" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Error" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Set of vowels" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Enumset/Vaccination" />
+            <option value="$PROJECT_DIR$/Topics/Semaphores/Out of stock" />
+            <option value="$PROJECT_DIR$/Topics/Semaphores/Producer-consumer problem" />
+            <option value="$PROJECT_DIR$/Topics/Semaphores/Show me your love" />
+            <option value="$PROJECT_DIR$/Topics/Semaphores/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Semaphores/There are no more permits to issue" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/A thread in NEW state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Finding and starting a thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Print name of TERMINATED thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Runnable state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/The current state of a thread" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/The magic of RUNNABLE state" />
+            <option value="$PROJECT_DIR$/Topics/States of a thread/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
